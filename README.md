@@ -1,2 +1,0 @@
-# linkedList
-Odin LinkedList practice
